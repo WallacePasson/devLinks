@@ -35,7 +35,7 @@ This project was developed with the following technologies:
 
 DevLinks is a link aggregator to use as an online business card.
 
-- [Access the finished project, online](https://maykbrito.github.io/devlinks)
+/*- [Access the finished project, online](https://wallacepasson.github.io/devlinks)
 
 - [attend classes](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
